@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi everyone.
-=======
-
->>>>>>> 7b99b4e138d65203cd1f78b3ceae7aaf5d64be67
+good evening
